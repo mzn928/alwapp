@@ -1,5 +1,7 @@
 {
 "version":"1.0.29",
 "link":"sv9.aldl.fun/win/latest.msix",
-"alLink":"n"
+"alLink":"n",
+"api":"https://graph.altest.click/graphql",
+"storage":"https://assets.altest.click"
 }
