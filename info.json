@@ -2,6 +2,6 @@
 "version":"1.0.30",
 "link":"http://sv9.aldl.fun/win/latest.msix",
 "alLink":"n",
-"api":"https://graph.altest.click/graphql",
-"storage":"https://altest.489145.ir.cdn.ir"
+"api":"https://app-api.altest.click/public/graphql",
+"storage":"https://altest.click"
 }
